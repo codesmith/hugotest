@@ -1,3 +1,9 @@
+---
+title: "My First Post"
+date: 2019-12-07T00:55:30+09:00
+draft: true
+---
+
 ## 参考記事
 - HugoのWindowsでの使い方はこれ！[Hugo を試す（Windows）](https://www.imuza.com/entry/2018/02/09/164628)
 - Amplifyはこれ！[AWS Amplifyコンソールを使ってHugoベースの静的サイトを構築](https://dev.classmethod.jp/cloud/aws/hugo-hosted-on-aws-amplify-console/)
